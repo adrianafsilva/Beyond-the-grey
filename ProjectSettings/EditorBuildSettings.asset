@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Aulas/beyondthegrey/mainmenu.unity
+    guid: 788ce70bfa67e134a8344c0abb894280
+  - enabled: 1
+    path: Assets/Aulas/beyondthegrey/level1.unity
+    guid: bb9ab2ded308057438fa6b7abbed2619
+  - enabled: 1
+    path: Assets/Aulas/beyondthegrey/howtoplay.unity
+    guid: c9f577dc7a3599b4780d179e71a399a8
+  - enabled: 1
+    path: Assets/Aulas/beyondthegrey/gameover.unity
+    guid: cbac5245ea7781142bea733bf7245ec1
+  - enabled: 1
+    path: Assets/Aulas/beyondthegrey/cutscene0.unity
+    guid: 2f7b6b71765b6c4489611ded92916c29
+  - enabled: 1
+    path: Assets/Aulas/beyondthegrey/cutscene1.unity
+    guid: 72873245701c01243aaf1ddec3330d1a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

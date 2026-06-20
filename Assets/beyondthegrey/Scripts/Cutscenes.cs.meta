@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0a1c223e79ced8468e7cc5a07661ba5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TextoNome: {fileID: 166263734191453841, guid: 238642a8f326f2244b702169c5c6c03b, type: 3}
+  - Dialogo: {fileID: 7657996838368106545, guid: 06c734fae9478bf4f9f78b6f22e60105, type: 3}
+  - Fundo: {fileID: 8224304370635504978, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
+  - painelFade: {fileID: 2448936056058935813, guid: c1ed451bb001ab14c96f9be26fcd49a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
