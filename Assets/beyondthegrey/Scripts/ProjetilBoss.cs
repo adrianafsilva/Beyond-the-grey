@@ -8,7 +8,6 @@ public class ProjetilBoss : MonoBehaviour
     {
         GameObject jogador = GameObject.Find("Jogador");
 
-        // Definir direção (Recorri ao Google/Youtube)
         float direcaoX = 1f;
         if (jogador.transform.position.x < this.transform.position.x)
         {

@@ -1019,7 +1019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 0.3137255}
+  m_Color: {r: 0.6084906, g: 0.45636794, b: 0.45636794, a: 0.3137255}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1385,6 +1385,26 @@ PrefabInstance:
     - target: {fileID: 515160050399613247, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8224304370635504978, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5570708879843500298, guid: 6d50ae8900bdf124489fd1b4b7881467, type: 3}
+    - target: {fileID: 8224304370635504978, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8224304370635504978, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6603774
+      objectReference: {fileID: 0}
+    - target: {fileID: 8224304370635504978, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6603774
+      objectReference: {fileID: 0}
+    - target: {fileID: 8224304370635504978, guid: 20933f6f846e4154c87aae5ce30e6b66, type: 3}
+      propertyPath: m_Color.r
+      value: 0.6603774
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -14,6 +14,7 @@ public class ControlaBoss : MonoBehaviour
     public float intervaloAtaques = 3f;
     public float distanciaAtivacao = 25f;
 
+// MECÂNICAS DO BOSS (Recorri ao Google Gemini)
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

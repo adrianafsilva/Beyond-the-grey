@@ -5486,9 +5486,9 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 47006292d26af1344b5d0f4f3b4d8f87, type: 3}
+  m_Resource: {fileID: 8300000, guid: edd62cc23760ecf48bb8d971c181e714, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -19308,7 +19308,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 28e0fe9ccf1f515449c30b8c8f2aff34, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.9
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -19405,7 +19405,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 92dc93dffaa7b3049a137077299152da, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.7
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -19502,7 +19502,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: e162a8fe39b5219428a980137858a411, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.4
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -20587,7 +20587,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Checkpoint!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 54cdd89a1fee2344eab09d972bca925a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0c88ff594bc081a4595c7d70cf981292, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -20681,8 +20681,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -32, y: 253}
-  m_SizeDelta: {x: 279.651, y: 50}
+  m_AnchoredPosition: {x: -53.8394, y: 253}
+  m_SizeDelta: {x: 410.6877, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1104410923
 GameObject:

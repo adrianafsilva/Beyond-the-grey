@@ -15,7 +15,7 @@ public class AtivadorBoss : MonoBehaviour
         {
             this.boss.SetActive(true);
 
-            // Ativar barreiras (Recorri ao Google/Youtube)
+            // ATIVAR BARREIRAS (Recorri ao Google Gemini)
             for (int i = 0; i < this.barreiras.Length; i++)
             {
                 this.barreiras[i].SetActive(true);

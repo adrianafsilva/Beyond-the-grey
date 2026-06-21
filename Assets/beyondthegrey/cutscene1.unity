@@ -567,13 +567,17 @@ MonoBehaviour:
       be released.
 
 
-      "Beyond the Grey" was the first game I made on my own,
-      and even though I still have a lot to improve it was overall a fun experience!
+      "Beyond the Grey" was the first game I made on my own
+      as part of an University project, and even though I still have a lot to improve
+      it was overall a fun experience!
 
 
-      I
-      plan to continue creating more games in the future. Stay tuned!'
+      I plan to continue creating more games
+      in the future. Stay tuned!'
     somDestaFala: {fileID: 0}
+    volumeDoSom: 0
+    fazerSomEmLoop: 0
+    pararSonsEmLoop: 0
 --- !u!4 &1435607521
 Transform:
   m_ObjectHideFlags: 0

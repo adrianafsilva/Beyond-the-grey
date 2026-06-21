@@ -10,6 +10,7 @@ public class InimigoSimples : MonoBehaviour
     private bool movendoParaDireita = true;
     private float cronometro;
 
+// PATRULHA DOS INIMIGOS (Recorri ao Google Gemini)
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

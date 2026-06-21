@@ -34,6 +34,7 @@ public class Cutscenes : MonoBehaviour
     private Coroutine coroutineEscrita;
     private bool cutsceneAtiva = false;
 
+// DINÂMICA DAS CUTSCENES (Recorri ao Google Gemini)
     void Start()
     {
         this.emissorSom = this.GetComponent<AudioSource>();

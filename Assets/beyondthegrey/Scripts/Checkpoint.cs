@@ -4,6 +4,7 @@ public class Checkpoints : MonoBehaviour
 {
     public GameObject textoNoCanvas; 
 
+// MENSAGEM DE CHECKPOINT (Recorri ao Google Gemini)
     void OnTriggerEnter2D(Collider2D col)
     {
         if (col.gameObject.CompareTag("Player"))
